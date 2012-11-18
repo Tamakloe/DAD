@@ -8,8 +8,8 @@
 <div id="blurb">
   <h2>Special Offers</h2>
 	<div id="img">
-	<img style="position: relative; top: 104px; left: 824px; height: 283px; width: 225px;" 
-		title="Derek Evans" alt="derek.jpg" src="Images/derek.jpg" />&nbsp;
+	<img style="position: relative; top: 5px; left: 824px; height: 283px; width: 225px;" 
+		title="L Plates" alt="L Plates" src="Images/Lplates.jpg" />&nbsp;
 	</div>
 	
 	<ul>

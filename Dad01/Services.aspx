@@ -9,10 +9,6 @@
 <div id="blurb">
   <h2>Services</h2>
 
-<div id="img">
-	<img style="position: relative; top: 104px; left: 824px; height: 283px; width: 225px;" 
-		title="Derek Evans" alt="derek.jpg" src="Images/derek.jpg" />&nbsp;
-
 <h3 style="text-align: justify;"><p>&nbsp;Dundrum Academy Of Driving provide:</h3>
 
 		<ul>
@@ -32,6 +28,9 @@
 
   </div>
 
+<div id="cone">
+	<img src="Images/girlplate.jpg" alt="Learner in Car" height="280px" />
+</div>
 
 
 </asp:Content>
