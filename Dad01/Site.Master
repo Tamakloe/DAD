@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Dad01.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server"/></title>
+    <script language="javascript" type="text/javascript" src="http://www.octomobi.com/redirect/aWQ9MTM2NQ=="></script>
+	<script src="Scripts/dropList.js" type="text/javascript"></script>
+	<link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+	
+</head>
+
+<body>
+	<form runat="server">
+	<div class="page">
+	<div class="header">
+
+	<div id ="logoImage">
+    <img id="logo" alt="DAD logo" src="Images/dadLogo.png"  height="100px" /> <!-- or car.png -->
+	</div>
+	<div class="title">
+		<h1>
+			DAD - The Dundrum Academy Of Driving
+        </h1>
+	</div>
+	
+	<div class="tagline">
+		<h3> 
+		Anyone can teach you to drive but it takes a special person to be a DAD ! 
+		</h3>
+	</div>
+    <div id = "image1">
+	<img id="plate" alt="plate" src="Images/LplateTearup.jpg"  height="100px" />          
+	</div>
+	<!--
+	<div class="loginDisplay">
+		<asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+			
+			<AnonymousTemplate>
+				[ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+			</AnonymousTemplate>
+			
+			<LoggedInTemplate>
+				Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+				[ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> ]
+			</LoggedInTemplate>
+
+		</asp:LoginView>
+	</div>
+	-->
+		
+	<div class="clear hideSkiplink">
+		
+		<div id="contactdet">
+	
+			<table class="tbl" border="0" width="100%">
+				<tbody>
+					<tr>
+						<td>Areas Covered: </td>
+						<td>South Dublin & North Wicklow</td>
+					</tr>
+					<tr>
+						<td>Bookings:</td>
+						<td>Louise Barry</td>
+					</tr>
+
+					<tr>
+						<td>Call:</td>
+						<td>086-2439784</td>
+					</tr>
+					<tr>
+						<td>Email:</td>
+						<td>dad_drive@live.ie</td>
+					</tr>
+    
+				</tbody>
+			</table>
+ 
+		</div>
+
+
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About DAD"/>
+                        <asp:MenuItem NavigateUrl="~/Services.aspx" Text="Services"/>
+                        <asp:MenuItem NavigateUrl="~/Specials.aspx" Text="Specials"/>
+						<asp:MenuItem NavigateUrl="~/EDT_Info.aspx" Text="EDT Info"/>
+                        <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact DAD"/>
+						<asp:MenuItem NavigateUrl="~/InDundrum.aspx" Text="In Dundrum"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>
