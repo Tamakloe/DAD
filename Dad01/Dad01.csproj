@@ -60,6 +60,8 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Contact.aspx" />
+    <Content Include="Images\cone.jpg" />
+    <Content Include="Images\girlplate.jpg" />
     <Content Include="InDundrum.aspx" />
     <Content Include="EDT_Info.aspx" />
     <Content Include="Images\award.PNG" />
