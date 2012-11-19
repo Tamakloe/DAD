@@ -33,19 +33,11 @@
 			<li>10% off car insurance</li>
 			<li>We work Monday to Saturday. </li>
 		</ul>
+	<h2 style = "display:inline">Tel: 086-2439784</h2><h3 style = "display:inline">&nbsp;&nbsp;Call Louise today, to book a lesson, or if you have any questions</h3>
 	
-	<div id="call">
-    <p>
-        <strong>Call Louise today, to book a lesson, or if you have any further questions</strong>
-    </p>
-    
-    <p>
-        <strong>Tel: 086-2439784</strong>
-    </p>
-    
-	</div>
 
-    </div>
+</div>
+
 	<div id="cone">
 	<img src="Images/cone.jpg" alt="Cone" height="250px" />
 	</div>
