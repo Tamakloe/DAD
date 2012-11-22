@@ -24,8 +24,8 @@
         </ul>
       
     <p style="text-align: justify;">As well as providing basic training to help you acquire a full driving licence we can also assist in developing further skills to make you a safer and more competent driver for life.</p>
-    <p style="display: inline">Call us today to book a lesson with us or if you have any further questions -</p><h2 style = "display:inline">Tel: 086-2439784</h2>
-    <br />
+    <h3 style="display: inline">Call Louise today to book a lesson with us or if you have any further questions -</h3><h2 style = "display:inline">Tel: 086-2439784</h2>
+    <p><br /></p>
 
 </div>
 

@@ -33,8 +33,9 @@
 			<li>10% off car insurance</li>
 			<li>We work Monday to Saturday. </li>
 		</ul>
+    <p><br /></p>	
 	<h2 style = "display:inline">Tel: 086-2439784</h2><h3 style = "display:inline">&nbsp;&nbsp;Call Louise today, to book a lesson, or if you have any questions</h3>
-	
+    <p><br /></p>	
 
 </div>
 
