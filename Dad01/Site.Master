@@ -11,9 +11,11 @@
 
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
-	
-<meta name="google-translate-customization" content="274d5276fd5427a6-13ce8b9c6afe3cf1-ga49d100bd7f97bb9-d"/>
+<meta name="title" content="Dundrum Academy of Driving" />
+<meta itemprop="name" content="Dundrum Academy of Driving" />
 
+<meta name="google-translate-customization" content="274d5276fd5427a6-13ce8b9c6afe3cf1-ga49d100bd7f97bb9-d"/>
+<meta name="google-site-verification" content="dUdnKQch0-Jh41fq-AloXVUw7HeD_LY4eRFYbRc0Zsg" />
 </head>
 
 <body>
