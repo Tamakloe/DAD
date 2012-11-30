@@ -2,6 +2,13 @@
     CodeBehind="Default.aspx.cs" Inherits="Dad01._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
+        <meta name="description" content="Dundrum Academy of Driving, DAD, anyone can teach you to drive but it takes a special person to be a DAD" />
+        <meta name="keywords" content="Dundrum, Driving School, Driving Lessons, Learner Driver, Driving Instructor, Car, ADI, RSA, Driving Test, EDT, Pretest, Pre-test, Dublin, Wicklow, Derek Evans, Gerard Tamakloe, webdevmonk" />
+        <meta name="author" content="Gerard Tamakloe, webdevmonk" />
+        <meta name="robots" content="noindex, follow" />
+        <meta name="revisit-after" content="3 month" />
+        <meta name="google-translate-customization" content="274d5276fd5427a6-13ce8b9c6afe3cf1-ga49d100bd7f97bb9-d" />
+        <meta name="google-site-verification" content="fwEoi-EkMks8S9RCBp6eN--TaHP1odUG6SO8C66IgJw" />
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
 	
