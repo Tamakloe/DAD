@@ -1,4 +1,4 @@
-﻿<%@ Page Title="In Dundrum" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
+﻿<%@ Page Title="In Dundrum - Dundrum Academy of Driving" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
     CodeBehind="InDundrum.aspx.cs" Inherits="Dad01.About" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="EDT_Info.aspx.cs" Inherits="Dad01.EDT_Info" %>
+﻿<%@ Page Title="Essential Driver Training - - Dundrum Academy of Driving" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="EDT_Info.aspx.cs" Inherits="Dad01.EDT_Info" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">

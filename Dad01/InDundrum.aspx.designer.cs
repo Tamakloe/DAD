@@ -10,6 +10,6 @@
 namespace Dad01 {
     
     
-    public partial class Video {
+    public partial class About {
     }
 }
