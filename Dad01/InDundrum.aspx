@@ -50,7 +50,7 @@
 	</script>
 
 	</div>
-<div><br /></div>
+
     <div class ="special">
         <p class="center" style="color:red"><strong>April Deals:</strong> </p>
         <p class="center">Buy three lessons at 30Euro a lesson get one lesson<span style="color:red"> FREE</span>.</p>
