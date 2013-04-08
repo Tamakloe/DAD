@@ -5,7 +5,7 @@ body
 {
     background: #b6b7bc;
     font-size: 0.8em;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: "Sansation", "Lucida Grande", "Segoe UI", "Arial", "Helvetica", "Verdana";
     margin: 0px;
     padding: 0px;
     color: #696969;
@@ -142,9 +142,25 @@ first child of the left and right table columns */
     left: 0px;
 }
 
+.special
+{
+    float: left;
+    margin-top:2em;
+    font-size:1.8em;
+    text-align: center;
+    border-style:ridge;
+    border-color:purple;
+    border-width:thick;
+}
+
+p.center
+{
+    text-align: center;
+}
+
 #TweetBox
 {
-    float:left;
+    float:right;
 }
 
 .title
@@ -388,7 +404,7 @@ div.accountInfo
 	margin: 8px;
 	padding: 2px;
 	border: 1px solid #ffffff;
-	width: 350px;
+	width: 320px;
 	color: #ffffff;
 	line-height: 1.5em;
 	font-family: Geneva, Arial, Helvetica, sans-serif;

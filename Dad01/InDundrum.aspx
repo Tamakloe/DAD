@@ -10,7 +10,7 @@
     
 	</div>
 
-	<div id ="TweetBox">
+    	<div id ="TweetBox">
 	
 		<script type="text/javascript" charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 	<script type="text/javascript">
@@ -50,4 +50,12 @@
 	</script>
 
 	</div>
+<div><br /></div>
+    <div class ="special">
+        <p class="center" style="color:red"><strong>April Deals:</strong> </p>
+        <p class="center">Buy three lessons at 30Euro a lesson get one lesson<span style="color:red"> FREE</span>.</p>
+        <p class="center">Great deals every month.</p>
+        <p class="center">Just give Louise a call on <strong>086 2439784.</strong></p>
+
+    </div>
 </asp:Content>
