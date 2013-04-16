@@ -21,9 +21,9 @@
 
 <div class = "video">
 
-	<iframe sandbox="" src="http://player.vimeo.com/video/8553732?color=ff9933&amp;autoplay=1" 
-        width="310" 
-        height="250"></iframe>
+
+    <iframe sandbox="" src="http://player.vimeo.com/video/8553732?color=ff9933&amp;autoplay=1" 
+        width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 </div>
 		

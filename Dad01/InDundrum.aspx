@@ -51,11 +51,11 @@
 
 	</div>
 
-    <div class ="special">
+    <!--div class ="special">
         <p class="center" style="color:red"><strong>April Deals:</strong> </p>
         <p class="center">Buy three lessons at 30Euro a lesson get one lesson<span style="color:red"> FREE</span>.</p>
         <p class="center">Great deals every month.</p>
         <p class="center">Just give Louise a call on <strong>086 2439784.</strong></p>
 
-    </div>
+    </div-->
 </asp:Content>

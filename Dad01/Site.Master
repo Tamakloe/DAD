@@ -120,8 +120,7 @@
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
                         <asp:MenuItem NavigateUrl="~/About.aspx" Text="About DAD"/>
                         <asp:MenuItem NavigateUrl="~/Services.aspx" Text="Services"/>
-                        <asp:MenuItem NavigateUrl="~/Specials.aspx" Text="Specials"/>
-						<asp:MenuItem NavigateUrl="~/EDT_Info.aspx" Text="EDT Info"/>
+                        <asp:MenuItem NavigateUrl="~/EDT_Info.aspx" Text="EDT Info"/>
                         <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact DAD"/>
 						<asp:MenuItem NavigateUrl="~/Video.aspx" Text="Video Training" />
 						<asp:MenuItem NavigateUrl="~/InDundrum.aspx" Text="In Dundrum"/>
@@ -139,5 +138,7 @@
         
     </div>
     </form>
+
+<!--asp:MenuItem NavigateUrl="~/Specials.aspx" Text="Specials"/-->
 </body>
 </html>
