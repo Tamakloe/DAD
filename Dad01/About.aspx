@@ -6,7 +6,7 @@
 
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     
-<div id="blurb">
+<div class="blurb">
 	<h2>About</h2>
 
 	<p>

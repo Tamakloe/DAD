@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     
-	<div id="blurb">
+	<div class="blurb">
 	<h2>What's Done in Dundrum</h2>
     
 	</div>

@@ -12,7 +12,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
 	
-	<div id="blurb">
+	<div class="blurb">
 	<h2>Welcome to the Dundrum Academy of driving - D.A.D</h2>
     
     <p>

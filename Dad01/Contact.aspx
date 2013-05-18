@@ -7,7 +7,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-<div id="blurb">
+<div class="blurb">
 	<h2>Contact DAD</h2>
 
 

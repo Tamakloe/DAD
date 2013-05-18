@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-<div id="blurb">
+<div class="blurb">
 <h2>About EDT</h2>
         
     <p> To learn more about mandatory Essential Driver Training (EDT) for learner drivers, why it’s necessary and to discover it's benefits - click on one of the heading below: </p>

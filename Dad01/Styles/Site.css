@@ -413,7 +413,7 @@ div.accountInfo
 	background-color: #4b6c9e;
 }	
 
-#blurb 
+.blurb 
 {
 	position:relative;
 	float:left;
@@ -433,7 +433,9 @@ div.accountInfo
 
 .video
 {
+    position:relative;
     float:right;
+    
 }
 
 #cone
