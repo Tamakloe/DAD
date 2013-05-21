@@ -8,7 +8,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
 <div class="blurb">
-	<h2>Contact DAD</h2>
+	<h2>Contact D.A.D</h2>
 
 
 	<h3>Opening Hours</h3>
